@@ -29,7 +29,7 @@ The script uses computer vision and clustering to detect the **most frequent col
 
 ## 📦 Requirements
 
-- Python 3.7+
+- Python 3.9+
 - OpenCV (`opencv-python`)
 - scikit-learn
 - matplotlib
